@@ -1,5 +1,5 @@
 Thankyou for trying out this script 
-Commertial use is strictly prohibited without the consent of the Creator (https://github.com/xV3SPERx). Feel free to use it for individually.
+Commertial use is strictly prohibited without the consent of the Creator (https://github.com/xV3SPERx). Feel free to use it individually.
 
 STEPS TO AUTOMATE:
 1- Download and extract files.
